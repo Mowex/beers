@@ -1,0 +1,106 @@
+ .jumb-home{
+  height: 600px;
+  background-size: cover;
+  color: white;
+  background-image: url('../img/Cervezas.jpg');
+}
+
+.jumb-pack1{
+  height: 250px;
+  background-size: cover;
+  color: white;
+  background-image: url('../img/packs/banner-cerveza.jpg');
+}
+
+.jumb-pack2{
+  height: 250px;
+  background-size: cover;
+  color: white;
+  background-image: url('../img/packs/Banner_PaleAle2.jpg');
+}
+
+#cervezas{
+  text-align: center;
+}
+
+.p-price .p-title{
+  padding: 50px;
+}
+
+img{
+  margin: 25px 0 7px 0;
+}
+
+#novedades p{
+  margin: 18px 0;
+}
+
+.footer{
+  background-color: #131313;
+  color: white;
+  height: 210px;
+  margin-top: 15px;
+  
+}
+
+.packs{
+  margin: 5 0;
+}
+
+.car img{
+  margin: 0;
+}
+
+#submenu{
+  margin-top: 51px;
+  width: 25%;
+}
+
+#body-beers{
+  margin-top: 120px;
+}
+
+.body-packs{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.panel-default .panel-heading{
+  background-color: black;
+  color: white;
+}
+
+
+.btn-primary{
+  background-color: black;
+}
+
+.btn-primary:hover{
+  background-color: #00001C;
+}
+
+.panel-default .panel-body{
+  background-color: #1d1c1e;
+  color: white;
+}
+
+.panel-default .panel-body .form-control{
+  background-color: #DCDBD7;
+  color: black;
+}
+
+#alerta{
+  margin: 50px 0 -50px 0;
+}
+
+#comprar{
+  width: 100%;
+  height: 50px;
+  font-size: 25px;
+}
+
+#vaciar{
+  width: 100%;
+  height: 50px;
+  font-size: 25px;
+}
